@@ -1,0 +1,22 @@
+{
+  "frame_key": "global_2025_10_09_22_56_21_531.json",
+  "question": "Within a 100-meter radius, How far is the nearest vehicle to my right?",
+  "ego_id": "AVflow.81",
+  "target_ids": [
+    "flow4.409",
+    "flow4.410",
+    "flow6.164",
+    "flow2.820",
+    "flow2.821"
+  ],
+  "distance": [
+    10.89,
+    15.63,
+    17.47,
+    38.23,
+    63.96
+  ],
+  "subtask": "Distance",
+  "check": "direction_check",
+  "label_id": 2
+}

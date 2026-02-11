@@ -1,0 +1,10 @@
+{
+  "frame_key": "global_2025_10_09_22_57_02_530.json",
+  "question": "Within a 100-meter radius, Are there other trucks traveling on Takamori-Higashi-sen road?",
+  "ego_id": "AVflow.82",
+  "target_ids": [],
+  "exist": false,
+  "subtask": "Exist",
+  "check": "road_check",
+  "label_id": 6
+}

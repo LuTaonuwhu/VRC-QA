@@ -1,0 +1,26 @@
+{
+  "frame_key": "global_2025_10_09_20_17_06_534.json",
+  "question": "Within a 100-meter radius, What's the current speed of the closest car near me?",
+  "ego_id": "AVflow.2",
+  "target_ids": [
+    "flow4.12",
+    "flow4.13",
+    "flow6.5",
+    "flow5.14",
+    "flow7.5",
+    "flow4.14",
+    "flow5.12"
+  ],
+  "velocity": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.00230853958055377,
+    0.0
+  ],
+  "subtask": "Velocity",
+  "check": "around_check",
+  "label_id": 1
+}

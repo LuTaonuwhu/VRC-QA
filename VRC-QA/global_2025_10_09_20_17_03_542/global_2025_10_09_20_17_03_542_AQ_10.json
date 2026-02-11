@@ -1,0 +1,13 @@
+{
+  "frame_key": "global_2025_10_09_20_17_03_542.json",
+  "question": "Within a 100-meter radius, Is there any buses appearing on the left side of my vehicle?",
+  "ego_id": "AVflow.2",
+  "target_ids": [
+    "flow1.27",
+    "flow5.13"
+  ],
+  "exist": true,
+  "subtask": "Exist",
+  "check": "direction_check",
+  "label_id": 6
+}

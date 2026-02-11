@@ -1,0 +1,10 @@
+{
+  "frame_key": "global_2025_10_09_20_17_02_547.json",
+  "question": "Within a 100-meter radius, Right now, is there any vehicles present on Ishio-sen-segment6 road?",
+  "ego_id": "AVflow.2",
+  "target_ids": [],
+  "exist": false,
+  "subtask": "Exist",
+  "check": "road_check",
+  "label_id": 6
+}

@@ -1,0 +1,22 @@
+{
+  "frame_key": "global_2025_10_09_20_17_05_546.json",
+  "question": "Within a 100-meter radius, Roughly what are the length, width, and height of the car on the right?",
+  "ego_id": "AVflow.2",
+  "target_ids": [
+    "flow4.12",
+    "flow4.13",
+    "flow6.5",
+    "flow7.5",
+    "flow4.14"
+  ],
+  "size": [
+    5.0,
+    5.0,
+    5.0,
+    5.0,
+    5.0
+  ],
+  "subtask": "Size",
+  "check": "direction_check",
+  "label_id": 8
+}

@@ -1,0 +1,14 @@
+{
+  "frame_key": "global_2025_10_09_22_57_49_531.json",
+  "question": "Within a 100-meter radius, About how many km/h is the car in my lane?",
+  "ego_id": "AVflow.82",
+  "target_ids": [
+    "flow1.825"
+  ],
+  "velocity": [
+    0.00046703210682608187
+  ],
+  "subtask": "Velocity",
+  "check": "lane_check",
+  "label_id": 1
+}

@@ -1,0 +1,24 @@
+{
+  "frame_key": "global_2025_10_09_22_57_49_531.json",
+  "question": "Within a 100-meter radius, Has the vehicle on my left just turned on the right blinker?",
+  "ego_id": "AVflow.82",
+  "target_ids": [
+    "flow1.823",
+    "flow1.825",
+    "flow1.822",
+    "flow4.414",
+    "flow1.824",
+    "flow1.826"
+  ],
+  "status": [
+    "['VEH_SIGNAL_BRAKELIGHT']",
+    "['VEH_SIGNAL_BRAKELIGHT']",
+    "['VEH_SIGNAL_BRAKELIGHT']",
+    "[]",
+    "['VEH_SIGNAL_BRAKELIGHT']",
+    "['VEH_SIGNAL_BRAKELIGHT']"
+  ],
+  "subtask": "Status",
+  "check": "direction_check",
+  "label_id": 4
+}

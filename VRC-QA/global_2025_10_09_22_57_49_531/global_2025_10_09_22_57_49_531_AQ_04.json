@@ -1,0 +1,16 @@
+{
+  "frame_key": "global_2025_10_09_22_57_49_531.json",
+  "question": "Within a 100-meter radius, Right now, what type of vehicle is in the left lane beside me?",
+  "ego_id": "AVflow.82",
+  "target_ids": [
+    "flow1.823",
+    "flow1.826"
+  ],
+  "class": [
+    "truck",
+    "car"
+  ],
+  "subtask": "Classification",
+  "check": "lane_check",
+  "label_id": 5
+}

@@ -1,0 +1,10 @@
+{
+  "frame_key": "global_2025_10_09_20_17_06_534.json",
+  "question": "Within a 100-meter radius, Right now, is there any vehicles present in my lane?",
+  "ego_id": "AVflow.2",
+  "target_ids": [],
+  "exist": false,
+  "subtask": "Exist",
+  "check": "lane_check",
+  "label_id": 6
+}

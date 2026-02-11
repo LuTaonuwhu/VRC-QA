@@ -1,0 +1,18 @@
+{
+  "frame_key": "global_2025_10_09_20_17_02_547.json",
+  "question": "Within a 100-meter radius, What exterior colors can be seen on the buses near my vehicle?",
+  "ego_id": "AVflow.2",
+  "target_ids": [
+    "flow1.27",
+    "flow5.13",
+    "flow2.29"
+  ],
+  "color": [
+    "green",
+    "orange",
+    "white"
+  ],
+  "subtask": "Color",
+  "check": "around_check",
+  "label_id": 7
+}

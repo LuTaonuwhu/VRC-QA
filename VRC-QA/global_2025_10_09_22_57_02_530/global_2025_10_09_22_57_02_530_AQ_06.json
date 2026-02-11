@@ -1,0 +1,14 @@
+{
+  "frame_key": "global_2025_10_09_22_57_02_530.json",
+  "question": "Within a 100-meter radius, Are the buses around me speeding up?",
+  "ego_id": "AVflow.82",
+  "target_ids": [
+    "flow2.822"
+  ],
+  "acceleration": [
+    0.11876565217971802
+  ],
+  "subtask": "Acceleration",
+  "check": "around_check",
+  "label_id": 9
+}

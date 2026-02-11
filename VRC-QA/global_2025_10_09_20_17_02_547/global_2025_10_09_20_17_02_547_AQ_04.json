@@ -1,0 +1,20 @@
+{
+  "frame_key": "global_2025_10_09_20_17_02_547.json",
+  "question": "Within a 100-meter radius, What vehicle type does the vehicle on my left belong to?",
+  "ego_id": "AVflow.2",
+  "target_ids": [
+    "flow1.27",
+    "flow5.14",
+    "flow5.13",
+    "flow5.12"
+  ],
+  "class": [
+    "bus",
+    "car",
+    "bus",
+    "car"
+  ],
+  "subtask": "Classification",
+  "check": "direction_check",
+  "label_id": 5
+}

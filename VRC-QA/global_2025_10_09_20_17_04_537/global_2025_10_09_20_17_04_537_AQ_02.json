@@ -1,0 +1,26 @@
+{
+  "frame_key": "global_2025_10_09_20_17_04_537.json",
+  "question": "Within a 100-meter radius, Are there any car around me with hazard lights on?",
+  "ego_id": "AVflow.2",
+  "target_ids": [
+    "flow4.12",
+    "flow4.13",
+    "flow6.5",
+    "flow5.14",
+    "flow7.5",
+    "flow4.14",
+    "flow5.12"
+  ],
+  "status": [
+    "['VEH_SIGNAL_BRAKELIGHT']",
+    "['VEH_SIGNAL_BRAKELIGHT']",
+    "['VEH_SIGNAL_BLINKER_RIGHT', 'VEH_SIGNAL_BRAKELIGHT']",
+    "['VEH_SIGNAL_BRAKELIGHT']",
+    "['VEH_SIGNAL_BLINKER_LEFT', 'VEH_SIGNAL_BRAKELIGHT']",
+    "['VEH_SIGNAL_BRAKELIGHT']",
+    "['VEH_SIGNAL_BRAKELIGHT']"
+  ],
+  "subtask": "Status",
+  "check": "around_check",
+  "label_id": 4
+}

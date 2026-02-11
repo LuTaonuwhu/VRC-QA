@@ -1,0 +1,20 @@
+{
+  "frame_key": "global_2025_10_09_20_17_05_546.json",
+  "question": "Within a 100-meter radius, Which direction is the vehicle on my left, with its left turn signal on, going to turn?",
+  "ego_id": "AVflow.2",
+  "target_ids": [
+    "flow5.14",
+    "flow5.13",
+    "flow5.12",
+    "flow1.27"
+  ],
+  "heading": [
+    270.0,
+    270.0,
+    270.0,
+    180.0
+  ],
+  "subtask": "Heading",
+  "check": "direction_check",
+  "label_id": 10
+}

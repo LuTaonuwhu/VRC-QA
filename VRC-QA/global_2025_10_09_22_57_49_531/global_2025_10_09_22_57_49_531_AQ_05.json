@@ -1,0 +1,25 @@
+{
+  "frame_key": "global_2025_10_09_22_57_49_531.json",
+  "question": "Within a 100-meter radius, If you look around my vehicle, how many vehicles do you notice?",
+  "ego_id": "AVflow.82",
+  "target_ids": [
+    "flow1.823",
+    "flow1.825",
+    "flow1.822",
+    "flow4.414",
+    "flow1.824",
+    "flow1.826",
+    "flow6.164",
+    "flow6.165",
+    "flow2.825",
+    "flow2.824",
+    "flow2.823",
+    "flow2.827",
+    "flow2.826",
+    "flow2.828"
+  ],
+  "count": 14,
+  "subtask": "Count",
+  "check": "around_check",
+  "label_id": 3
+}

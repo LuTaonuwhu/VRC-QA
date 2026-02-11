@@ -1,0 +1,17 @@
+{
+  "frame_key": "global_2025_10_09_22_56_21_531.json",
+  "question": "Within a 100-meter radius, How many cars are close to me?",
+  "ego_id": "AVflow.81",
+  "target_ids": [
+    "flow1.819",
+    "flow4.410",
+    "flow6.164",
+    "flow2.820",
+    "flow1.814",
+    "flow2.821"
+  ],
+  "count": 6,
+  "subtask": "Count",
+  "check": "around_check",
+  "label_id": 3
+}

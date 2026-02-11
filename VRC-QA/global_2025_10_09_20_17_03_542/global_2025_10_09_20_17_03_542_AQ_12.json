@@ -1,0 +1,16 @@
+{
+  "frame_key": "global_2025_10_09_20_17_03_542.json",
+  "question": "Within a 100-meter radius, What’s the distance between me and the bus on my left side?",
+  "ego_id": "AVflow.2",
+  "target_ids": [
+    "flow1.27",
+    "flow5.13"
+  ],
+  "distance": [
+    14.19,
+    18.5
+  ],
+  "subtask": "Distance",
+  "check": "direction_check",
+  "label_id": 2
+}

@@ -1,0 +1,10 @@
+{
+  "frame_key": "global_2025_10_09_22_57_49_531.json",
+  "question": "Within a 100-meter radius, Can you tell me if there is a bus currently on Nakaoshi-sen-segment2 road?",
+  "ego_id": "AVflow.82",
+  "target_ids": [],
+  "exist": false,
+  "subtask": "Exist",
+  "check": "road_check",
+  "label_id": 6
+}

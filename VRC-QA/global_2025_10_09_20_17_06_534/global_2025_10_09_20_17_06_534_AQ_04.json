@@ -1,0 +1,18 @@
+{
+  "frame_key": "global_2025_10_09_20_17_06_534.json",
+  "question": "Within a 100-meter radius, Is there a bus around my car flashing its right indicator?",
+  "ego_id": "AVflow.2",
+  "target_ids": [
+    "flow5.13",
+    "flow2.29",
+    "flow1.27"
+  ],
+  "status": [
+    "['VEH_SIGNAL_BRAKELIGHT']",
+    "['VEH_SIGNAL_BRAKELIGHT']",
+    "[]"
+  ],
+  "subtask": "Status",
+  "check": "around_check",
+  "label_id": 4
+}
